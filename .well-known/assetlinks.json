@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.siriketuanal_cpu.twa",
-        "sha256_cert_fingerprints": ["FE:AB:31:A5:8E:68:04:B4:47:2E:E8:8C:F5:C0:CC:1B:16:CA:24:50:E4:53:6A:36:DC:EE:20:B1:94:66:49:6C"]
+        "sha256_cert_fingerprints": ["2D:9A:5A:29:FB:77:6B:EA:2A:3D:2C:B4:C2:0E:3B:20:0F:28:90:F6:04:37:65:FB:CF:26:E0:76:05:EB:DD:DE"]
       }
     }]
