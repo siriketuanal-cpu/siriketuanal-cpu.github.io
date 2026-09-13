@@ -10,7 +10,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.siriketuanal_cpu.twa",
-        "sha256_cert_fingerprints": ["3D:C6:94:71:21:A2:5B:85:69:B0:1E:94:D2:EA:7E:27:AF:D7:BD:E2:E9:E0:7D:25:90:85:D7:B8:0A:4E:9F:BC"]
+        "package_name": "io.github.siriketuanal_cpu.nyanko_list",
+        "sha256_cert_fingerprints": ["BE:F9:3F:8F:6F:F8:B1:3C:DC:2F:4C:6A:13:66:D2:0D:62:E8:08:66:38:DC:D5:9E:E0:EE:D0:43:EF:40:FE:F6"]
       }
     }]
