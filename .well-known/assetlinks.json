@@ -4,13 +4,14 @@
         "namespace": "android_app",
         "package_name": "io.github.siriketuanal_cpu.twa",
         "sha256_cert_fingerprints": ["2D:9A:5A:29:FB:77:6B:EA:2A:3D:2C:B4:C2:0E:3B:20:0F:28:90:F6:04:37:65:FB:CF:26:E0:76:05:EB:DD:DE"]
-      }
-    }]
-[{
+　　　}
+    },
+{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.siriketuanal_cpu.nyanko_list",
         "sha256_cert_fingerprints": ["BE:F9:3F:8F:6F:F8:B1:3C:DC:2F:4C:6A:13:66:D2:0D:62:E8:08:66:38:DC:D5:9E:E0:EE:D0:43:EF:40:FE:F6"]
       }
-    }]
+    }
+　　]
